@@ -56,3 +56,4 @@ public class BalanceEnquiry extends JFrame implements ActionListener{
         new BalanceEnquiry("");
     }
 }
+//the end
